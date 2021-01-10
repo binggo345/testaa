@@ -1,0 +1,18 @@
+.footer-{
+    width: 100%;
+    height: 10vh;
+    color: white !important;
+}
+
+.garis-footer{
+    margin-top: 10%;
+    width: 100%;
+    height: 7.5px;
+    border-radius: 7.5px;
+    background-image: -webkit-linear-gradient(right, #ceff1a, #bcff0d, #a9ff01, #93ff00, #7aff00);
+}
+.copyright{
+    padding-right: 2.5%;
+    font-size: 12.5px;
+    font-weight: 600;
+}

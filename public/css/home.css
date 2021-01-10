@@ -1,0 +1,126 @@
+.home-{
+    width: 100%;
+    height: 100vh;
+    color: white;
+}
+
+.home{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+
+    font-size: calc(10px + 1.5vw);
+    text-align: center;
+}
+
+.home h1{
+    font-size: calc(50px + 2vh);
+    font-weight: 900;
+}
+
+.home h4{
+    margin-top: 50px;
+    font-weight: 100;
+}
+
+/* underline animation */
+.js-work-link {
+    position: relative; 
+}
+.underline{
+    display: block;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 0;
+    height: 1px;
+    background: linear-gradient(to left, #ceff1a, #bcff0d, #a9ff01, #93ff00, #7aff00);
+}
+
+.scroll-down{
+    position: absolute;
+    bottom: 2%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.mouse{
+    width: calc(20px + .5vh);
+    height: calc(20px + 3vh);
+    border: 1px solid white;
+    background: transparent;
+    border-radius: 20px;
+    margin-bottom: .5rem;
+    display: flex;
+}
+.mouse span{
+    width: calc(5px + .5vh);
+    height: calc(5px + .5vh);
+    border: 1px solid white;
+    background: white;
+    display: block;
+    border-radius: 50%;
+    margin: auto;
+    animation: move-wheel 2s linear infinite;
+}
+.arrow span{
+    display: block;
+    width: calc(10px + .5vh);
+    height: calc(10px + .5vh);
+    border: 1px solid transparent;
+    border-right: 1px solid white;
+    border-bottom: 1px solid white;
+    transform: rotate(45deg);
+    animation: move-arrow .5s alternate infinite;
+}
+@keyframes move-wheel{
+    0%{
+        opacity: 0;
+        transform: translateY(-1rem);
+    }
+    100%{
+        opacity: 1;
+        transform: translateY(.8rem);
+    }
+}
+@keyframes move-arrow{
+    0%{
+        opacity: 0;
+    }
+    25%{
+        opacity: .25;
+    }
+    50%{
+        opacity: .5;
+    }
+    75%{
+        opacity: .75;
+    }
+    100%{
+        opacity: 1;
+    }
+}
+
+.admin{
+    filter: saturate(160%);
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+}
+::-webkit-scrollbar-track {
+    background-color: black;
+}
+::-webkit-scrollbar-thumb {
+    background: linear-gradient(to bottom, #ceff1a, #bcff0d, #a9ff01, #93ff00, #7aff00);
+    border-radius: 10px;
+}
+
+@media (max-width: 992px) {
+    .word{
+        display: none;
+    }
+}

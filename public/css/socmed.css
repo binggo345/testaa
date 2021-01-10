@@ -1,0 +1,14 @@
+.socmed{
+    display: flex;
+    flex-wrap: nowrap;
+    margin-top: 30px;
+}
+.slide{
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 50%;
+}
+hr.style1{
+    height: 1px; 
+    background-image: -webkit-linear-gradient(right, #ceff1a, #bcff0d, #a9ff01, #93ff00, #7aff00);
+}

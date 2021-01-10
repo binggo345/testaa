@@ -1,0 +1,21 @@
+.navbar-edrick{
+    width: 100%;
+    height: 5vh;
+    background-color: transparent !important;
+    position: absolute;
+    display: flex;
+    margin-top: 2%;
+}
+.navbar-bar{
+    width: 50%;
+}
+.nav-putih{
+    font-size: calc(10px + .8vh) !important;
+    color: white;
+    text-decoration: none !important;
+}
+
+a.nav-putih,
+a.nav-putih:hover{
+    color: white;
+}

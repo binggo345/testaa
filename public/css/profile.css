@@ -1,0 +1,15 @@
+.profile-{
+    width: 100%;
+    height: auto;
+    margin-bottom: 20%;
+    color: white !important;
+}
+.progress{
+    background-color: transparent !important;
+}
+.progress-bar{
+    background: linear-gradient(to left, #ceff1a, #bcff0d, #a9ff01, #93ff00, #7aff00);
+}
+.card{
+    background-color: transparent !important;
+}
