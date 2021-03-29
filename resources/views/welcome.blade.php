@@ -308,6 +308,23 @@
 
                     <div class="timeline-row">
                         <div class="timeline-time">
+                            From March 2021<small>to February 2022</small>
+                        </div>
+                        <div class="timeline-content">
+                            <i class="icon-attachment">
+                                <img class="img-fluid" src="{{asset('assets/agit.png')}}">
+                            </i>
+                            <h5>PT Astra Graphia Information Technology</h5>
+                            <p>Full Stack Developer for PT Astra Graphia Information Technology</p>
+                            <a href="https://www.ag-it.com/">
+                                <img class="img-fluid work-image" src="{{asset('assets/agit.png')}}">
+                            </a>
+                        </div>
+                        <hr class="style1">
+                    </div>
+
+                    <div class="timeline-row">
+                        <div class="timeline-time">
                             From December 2020<small>until now</small>
                         </div>
                         <div class="timeline-content">
@@ -331,8 +348,8 @@
                             <i class="icon-attachment">
                                 <img class="img-fluid" src="{{asset('assets/logo-bone.png')}}">
                             </i>
-                            <h5>PT. Bersama Satu Logistics</h5>
-                            <p>Freelance Web Developer for PT. Bersama Satu Logistics.</p>
+                            <h5>PT Bersama Satu Logistics</h5>
+                            <p>Freelance Web Developer for PT Bersama Satu Logistics</p>
                             <a href="https://b-one.id/">
                                 <img class="img-fluid work-image" src="{{asset('assets/b-one-ss.png')}}">
                             </a>
@@ -340,78 +357,6 @@
                         <hr class="style1">
                     </div>
 
-                    <div class="timeline-row">
-                        <div class="timeline-time">
-                            Bina Nusantara University<small>University Project</small>
-                        </div>
-                        <div class="timeline-content">
-                            <h5>BeeFlix</h5>
-                            <p>Project: BeeFlix<br>using Laravel, blade, & PHP</p>
-                            <a href="https://ancient-inlet-95214.herokuapp.com/">
-                                <img class="img-fluid work-image" src="{{asset('assets/beeflix.png')}}">
-                            </a>
-                        </div>
-                        <hr class="style1">
-                    </div>
-
-                    <div class="timeline-row">
-                        <div class="timeline-time">
-                            Bina Nusantara University<small>University Project</small>
-                        </div>
-                        <div class="timeline-content">
-                            <h5>Sokopedia</h5>
-                            <p>Group Project: Sokopedia<br>using Laravel, blade, & PHP</p>
-                            <a href="https://github.com/binggo345/Sokopedia">
-                                <img class="img-fluid work-image" src="{{asset('assets/sokopedia.png')}}">
-                            </a>
-                        </div>
-                        <hr class="style1">
-                    </div>
-
-                    <div class="timeline-row">
-                        <div class="timeline-time">
-                            Bina Nusantara University<small>University Project</small>
-                        </div>
-                        <div class="timeline-content">
-                            <h5>EzyFood</h5>
-                            <p>Project: EzyFood<br>using Java on Android Studio</p>
-                            <a href="https://github.com/binggo345/EzyFood">
-                                <img class="img-fluid work-image" src="{{asset('assets/ezyfood.png')}}">
-                            </a>
-                        </div>
-                        <hr class="style1">
-                    </div>
-
-                    <div class="timeline-row">
-                        <div class="timeline-time">
-                            Bina Nusantara University<small>University Project</small>
-                        </div>
-                        <div class="timeline-content">
-                            <h5>PurpleLane Book Store</h5>
-                            <p>Group Project: PurpleLane Book Store<br>using Java</p>
-                            <a href="https://github.com/binggo345/PurpleLane">
-                                <img class="img-fluid work-image" src="{{asset('assets/purplelane.png')}}">
-                            </a>
-                        </div>
-                        <hr class="style1">
-                    </div>
-
-                    <div class="timeline-row">
-                        <div class="timeline-time">
-                            Bina Nusantara University<small>University Project</small>
-                        </div>
-                        <div class="timeline-content">
-                            <i class="icon-attachment">
-                                <img class="img-fluid" src="{{asset('assets/logo-miku.png')}}">
-                            </i>
-                            <h5>Miku e-skpo</h5>
-                            <p>Group Project: Miku e-skpo<br>using HTML, CSS, & JavaScript</p>
-                            <a href="https://binggo345.github.io/mikuE-skpo/">
-                                <img class="img-fluid work-image" src="{{asset('assets/miku.png')}}">
-                            </a>
-                        </div>
-                        <hr class="style1">
-                    </div>
                </div>
             </div>
         </section>
@@ -419,7 +364,7 @@
         <section class="footer-">
             <div class="container">
                 <div class="garis-footer"></div>
-                <div class="copyright text-right mt-1">&copy 2020 Edrick</div>
+                <div class="copyright text-right mt-1">&copy 2021 Edrick</div>
             </div>
         </section>
 
