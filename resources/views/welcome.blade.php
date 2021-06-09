@@ -213,6 +213,14 @@
                                     <div class="progress mb-3" style="height: 5px">
                                         <div class="progress-bar" role="progressbar" style="width: 68%" aria-valuenow="68" aria-valuemin="0" aria-valuemax="100"></div>
                                     </div>
+                                    <small>Kotlin</small>
+                                    <div class="progress mb-3" style="height: 5px">
+                                        <div class="progress-bar" role="progressbar" style="width: 80%" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
+                                    </div>
+                                    <small>React.JS</small>
+                                    <div class="progress mb-3" style="height: 5px">
+                                        <div class="progress-bar" role="progressbar" style="width: 70%" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
+                                    </div>
                                     <small>HTML</small>
                                     <div class="progress mb-3" style="height: 5px">
                                         <div class="progress-bar" role="progressbar" style="width: 89%" aria-valuenow="89" aria-valuemin="0" aria-valuemax="100"></div>
@@ -223,7 +231,7 @@
                                     </div>
                                     <small>JavaScript</small>
                                     <div class="progress mb-3" style="height: 5px">
-                                        <div class="progress-bar" role="progressbar" style="width: 53%" aria-valuenow="53" aria-valuemin="0" aria-valuemax="100"></div>
+                                        <div class="progress-bar" role="progressbar" style="width: 60%" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100"></div>
                                     </div>
                                     <small>Laravel</small>
                                     <div class="progress mb-3" style="height: 5px">
@@ -279,6 +287,14 @@
                                     <small>Adobe Photoshop</small>
                                     <div class="progress mb-3" style="height: 5px">
                                         <div class="progress-bar" role="progressbar" style="width: 68%" aria-valuenow="68" aria-valuemin="0" aria-valuemax="100"></div>
+                                    </div>
+                                    <small>Adobe Premiere Pro</small>
+                                    <div class="progress mb-3" style="height: 5px">
+                                        <div class="progress-bar" role="progressbar" style="width: 85%" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
+                                    </div>
+                                    <small>Adobe After Effect</small>
+                                    <div class="progress mb-3" style="height: 5px">
+                                        <div class="progress-bar" role="progressbar" style="width: 80%" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
                                     </div>
                                     <small>Vegas PRO</small>
                                     <div class="progress mb-3" style="height: 5px">
@@ -364,7 +380,7 @@
         <section class="footer-">
             <div class="container">
                 <div class="garis-footer"></div>
-                <div class="copyright text-right mt-1">&copy 2021 Edrick</div>
+                <div class="copyright text-right mt-1">&copy <script>document.write(new Date().getFullYear())</script> Edrick</div>
             </div>
         </section>
 
