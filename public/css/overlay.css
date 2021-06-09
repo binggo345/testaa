@@ -1,11 +1,11 @@
 .overlay{
     width: 100%;
     height: 100vh;
-    position: fixed;
     top: 0;
     left: 0;
     z-index: 999;
     display: flex;
+    position: fixed;
 }
 .layer{
     background: linear-gradient(to bottom, #ceff1a, #bcff0d, #a9ff01, #93ff00, #7aff00);

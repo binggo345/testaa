@@ -341,7 +341,7 @@
 
                     <div class="timeline-row">
                         <div class="timeline-time">
-                            From December 2020<small>until now</small>
+                            From December 2020<small>to June 2021</small>
                         </div>
                         <div class="timeline-content">
                             <i class="icon-attachment">
@@ -349,7 +349,7 @@
                             </i>
                             <h5>kausa</h5>
                             <p>Freelance Web Developer for kausa</p>
-                            <a href="https://www.instagram.com/kausa.id/?hl=en">
+                            <a href="https://kausaindonesia.com/">
                                 <img class="img-fluid work-image" src="{{asset('assets/kausa.jpg')}}">
                             </a>
                         </div>
